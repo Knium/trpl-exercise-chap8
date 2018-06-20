@@ -2,9 +2,9 @@ https://doc.rust-lang.org/book/second-edition/ch08-03-hash-maps.html
 
 Usage:
 you can give an input like below exaples.
-- Add <name> to <department>
-- Show <department>
-- Exists <name> in <department>
+- `Add <name> to <department>`
+- `Show <department>`
+- `Exists <name> in <department>`
 
 try `$ cargo run`.
 
